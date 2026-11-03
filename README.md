@@ -1,5 +1,5 @@
 # NextJS-User-Management
-A NextJS Project on User Management Template. User Auth, User account management and roles assignment
+A NextJS Project. Inventory and POS System for Fuel Station Management
 
 Tools:
 NextJS15,
